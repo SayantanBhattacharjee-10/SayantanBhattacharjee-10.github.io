@@ -8,7 +8,7 @@ Welcome to my portfolio! I am an undergraduate student pursuing Electronics and 
 
 ### 1. Active Resonant Tunneling Diode Integrated Microstrip Patch Antenna
 * **Domain:** RF / Microwave Engineering & 5G Sub-6 GHz Communications
-* **Key Focus:** Active antenna design integrating negative differential resistance (NDR) for gain and bandwidth enhancement.
+* **Key Focus:** Active antenna design integrating negative differential resistance (NDR) for gain enhancement.
 
 ---
 
