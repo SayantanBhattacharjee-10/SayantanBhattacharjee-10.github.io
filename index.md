@@ -105,7 +105,6 @@
   ![VSWR Plot](VSWR_2.png)
   ![Gain Plot](Radiation_pattern_1.png)
 
-
 ---
 
 ### 8. Design and Iterative Optimization of a 5G Sub-6 GHz Antenna on FR4
