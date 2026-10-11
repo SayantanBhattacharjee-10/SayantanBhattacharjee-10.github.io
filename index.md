@@ -16,9 +16,8 @@ Welcome to my portfolio! I am an undergraduate student pursuing Electronics and 
 * **Domain:** Antenna Theory & Multi-Standard Wireless Systems
 * **Tools & Substrate:** Ansys HFSS, FR-4 Substrate
 * **Key Innovation:** Successfully excited four distinct resonant frequencies at 2.96 GHz, 3.75 GHz, 5.00 GHz, and 6.83 GHz.
-* **Metrics:** 
-  * **Return Loss ($S_{11}$):** Ranged from -11.50 dB to -19.38 dB (comfortably below the standard -10 dB threshold).
-  * **Applications:** Suitable for S-band radar, C-band 5G Sub-6 GHz, and 5 GHz Wi-Fi communications.
+* **Return Loss (S<sub>11</sub>):** Ranged from -11.50 dB to -19.38 dB (comfortably below the standard -10 dB threshold).
+* **Applications:** Suitable for S-band radar, C-band 5G Sub-6 GHz, and 5 GHz Wi-Fi communications.
 
 ---
 
@@ -28,7 +27,7 @@ Welcome to my portfolio! I am an undergraduate student pursuing Electronics and 
 * **Key Metrics:** 
   * **Bandwidth:** 272.5 MHz
   * **VSWR:** 1.36 and 1.02 within the operational band.
-  * **Peak Broadside Gain:** 1.64 dB.
+  * **Peak Broadside Gain:** 1.64 dB
 
 ---
 
@@ -47,7 +46,7 @@ Welcome to my portfolio! I am an undergraduate student pursuing Electronics and 
   * **Bandwidth Expansion:** 110 MHz (more than double the 50 MHz achieved in standard designs).
   * **Resonant Frequency:** 3.5025 GHz
   * **VSWR:** 1.51
-  * **Return Loss:** -13.83 dB
+  * **Return Loss (S<sub>11</sub>):** -13.83 dB
   * **Gain:** 3.98 dBi
 
 ---
@@ -56,17 +55,17 @@ Welcome to my portfolio! I am an undergraduate student pursuing Electronics and 
 * **Domain:** AI-driven Security Framework for IoT & WSN
 * **Tools:** PyTorch, Time-Series Transformers
 * **Key Innovation:** Built a temporal threat detection pipeline using a custom PyTorch Time-Series Transformer to detect cyber-physical threats in real-time.
-* **Mechanism:** Analyzes raw sensor telemetry to establish an operational baseline, compares live data against dynamic statistical thresholds ($\mu + 3\sigma$), and flags severe deviations (such as False Data Injection Attacks, node tampering, or DoS battery drain) as Security Alerts.
+* **Mechanism:** Analyzes raw sensor telemetry to establish an operational baseline, compares live data against dynamic statistical thresholds (μ + 3σ), and flags severe deviations (such as False Data Injection Attacks, node tampering, or DoS battery drain) as Security Alerts.
 
 ---
 
 ### 7. High-Performance Microstrip Patch Antenna Design on Rogers RT/Duroid 5880
 * **Domain:** Next-Generation Wireless Systems & Long-Range Communication
-* **Tools & Substrate:** Ansys HFSS, Rogers RT/Duroid 5880 Laminate ($\tan\delta \approx 0.0009$)
+* **Tools & Substrate:** Ansys HFSS, Rogers RT/Duroid 5880 Laminate (tan δ ≈ 0.0009)
 * **Key Innovation:** Minimized substrate losses and maximized overall directivity using low-loss laminates.
 * **Key Metrics:**
   * **Resonant Frequency:** 3.52 GHz
-  * **Return Loss ($S_{11}$):** -18.99 dB
+  * **Return Loss (S<sub>11</sub>):** -18.99 dB
   * **VSWR:** 1.25
   * **Peak Gain:** +8.09 dBi
 
@@ -74,11 +73,11 @@ Welcome to my portfolio! I am an undergraduate student pursuing Electronics and 
 
 ### 8. Design and Iterative Optimization of a 5G Sub-6 GHz Antenna on FR4
 * **Domain:** Cost-Effective, Commercial-Grade Substrate Design
-* **Tools & Substrate:** Ansys HFSS, FR-4 Substrate ($\tan\delta \approx 0.02$)
+* **Tools & Substrate:** Ansys HFSS, FR-4 Substrate (tan δ ≈ 0.02)
 * **Key Innovation:** Engineered a well-matched configuration for budget-conscious wireless hardware through careful dimensional tuning and feedline adjustments despite higher dielectric losses.
 * **Key Metrics:**
   * **Resonant Frequency:** 3.4975 GHz
-  * **Return Loss ($S_{11}$):** -12.2 dB
+  * **Return Loss (S<sub>11</sub>):** -12.2 dB
   * **VSWR:** 1.65
   * **Peak Gain:** +4.29 dBi
 
