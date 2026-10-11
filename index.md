@@ -123,7 +123,6 @@
   ![VSWR Plot](VSWR_1.png)
   ![Gain Plot](P_1.png)
   
-
 ---
 
 ## Technical Skillset
