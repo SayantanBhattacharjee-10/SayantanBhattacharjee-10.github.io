@@ -17,10 +17,10 @@
 * **Key Focus:** Active antenna design integrating negative differential resistance (NDR) for gain enhancement.
 * **Project Visuals:**
   *(Upload your images to the repository and name them like `project1_1.png`, then uncomment below)*
-  <!-- ![Schematic Layout](rtd_antenna.png) -->
-  <!-- ![S-plot](rtd_ant_splot.png) -->
-  <!-- ![Gain-plot](rtd_ant_gain.png) -->
-  <!-- ![3D Radiation Pattern](rtd_ant.png) -->
+  ![Schematic Layout](rtd_antenna.png)
+  ![S-plot](rtd_ant_splot.png)
+  ![Gain-plot](rtd_ant_gain.png)
+  ![3D Radiation Pattern](rtd_ant.png)
 
 ---
 
@@ -31,9 +31,9 @@
 * **Return Loss (S<sub>11</sub>):** Ranged from -11.50 dB to -19.38 dB (comfortably below the standard -10 dB threshold).
 * **Applications:** Suitable for S-band radar, C-band 5G Sub-6 GHz, and 5 GHz Wi-Fi communications.
 * **Project Visuals:**
-  <!-- ![Quad-Band Schematic Layout](antenna_6g_su.png) -->
-  <!-- ![Quad-Band S11 Response](quad_sp.png) -->
-  <!-- ![Quad-Band VSWR Response](quad_vswr) -->
+  ![Quad-Band Schematic Layout](antenna_6g_su.png)
+  ![Quad-Band S11 Response](quad_sp.png)
+  ![Quad-Band VSWR Response](quad_vswr)
 
 ---
 
@@ -45,9 +45,9 @@
   * **VSWR:** 1.36 and 1.02 within the operational band.
   * **Peak Broadside Gain:** 1.64 dB
 * **Project Visuals:**
-  <!-- ![Bandwidth Plot](WB_272_antenna.png) -->
-  <!-- ![Return Loss Plot](WB_272_PT2.png) -->
-  <!-- ![3D Radiation Pattern](WB_structure.png) -->
+  ![Bandwidth Plot](WB_272_antenna.png)
+  ![Return Loss Plot](WB_272_PT2.png)
+  ![3D Radiation Pattern](WB_structure.png)
 
 ---
 
@@ -56,9 +56,9 @@
 * **Tools:** Python, NumPy, Matplotlib
 * **Key Innovation:** Developed a complete DSP simulation to model radar target detection and range estimation. Generated a high-energy Linear Frequency Modulated (LFM) chirp signal adhering to the Nyquist sampling theorem, introduced simulated target echo delays, and flooded the channel with Additive White Gaussian Noise (AWGN) before implementing a time-reversed matched filter using convolution to extract the hidden signal.
 * **Project Visuals:**
-  <!-- ![Linear Frequency Modulation](Dsp_project_lfm.png) -->
-  <!-- ![Signal Buried in AWGN](Dsp_project_Noisy.png) -->
-  <!-- ![Matched Filter Output](Dsp_project_Matched_Output.png) -->
+  ![Linear Frequency Modulation](Dsp_project_lfm.png)
+  ![Signal Buried in AWGN](Dsp_project_Noisy.png)
+  ![Matched Filter Output](Dsp_project_Matched_Output.png)
 
 ---
 
@@ -73,9 +73,9 @@
   * **Return Loss (S<sub>11</sub>):** -13.83 dB
   * **Gain:** 3.98 dBi
 * **Project Visuals:**
-  <!-- ![3D Radiation Pattern](band_ant.png) -->
-  <!-- ![Return Loss Plot](band_plot_ant.png) -->
-  <!-- ![VSWR Plot](band_vswr_plot.png) -->
+  ![3D Radiation Pattern](band_ant.png)
+  ![Return Loss Plot](band_plot_ant.png)
+  ![VSWR Plot](band_vswr_plot.png)
 
 ---
 
@@ -85,9 +85,9 @@
 * **Key Innovation:** Built a temporal threat detection pipeline using a custom PyTorch Time-Series Transformer to detect cyber-physical threats in real-time.
 * **Mechanism:** Analyzes raw sensor telemetry to establish an operational baseline, compares live data against dynamic statistical thresholds (μ + 3σ), and flags severe deviations (such as False Data Injection Attacks, node tampering, or DoS battery drain) as Security Alerts.
 * **Project Visuals:**
-  <!-- ![Initial Transformer Forecast](AI-ML_1.png) -->
-  <!-- ![Batched Transformer Time-Series Temperature Forecasting](AI-ML_2.png) -->
-  <!-- ![IoT Sensor Network Threat Detection](AI-ML_3.png) -->
+  ![Initial Transformer Forecast](AI-ML_1.png)
+  ![Batched Transformer Time-Series Temperature Forecasting](AI-ML_2.png)
+  ![IoT Sensor Network Threat Detection](AI-ML_3.png)
 
 ---
 
@@ -101,10 +101,10 @@
   * **VSWR:** 1.25
   * **Peak Gain:** +8.09 dBi
 * **Project Visuals:**
-  <!-- ![3D Radiation Pattern](antenna_wr.png) -->
-  <!-- ![Return Loss Plot](Rogers_antenna.png) -->
-  <!-- ![VSWR Plot](VSWR_2.png) -->
-  <!-- ![Gain Plot](Radiation_pattern_1.png) -->
+  ![3D Radiation Pattern](antenna_wr.png)
+  ![Return Loss Plot](Rogers_antenna.png)
+  ![VSWR Plot](VSWR_2.png)
+  ![Gain Plot](Radiation_pattern_1.png)
 
 
 ---
@@ -119,10 +119,10 @@
   * **VSWR:** 1.65
   * **Peak Gain:** +4.29 dBi
 * **Project Visuals:**
-  <!-- ![3D Radiation Pattern](Antenna_RB_1.png) -->
-  <!-- ![Return Loss Plot](FR4_antenna.png) -->
-  <!-- ![VSWR Plot](VSWR_1.png) -->
-  <!-- ![Gain Plot](P_1.png) -->
+  ![3D Radiation Pattern](Antenna_RB_1.png)
+  ![Return Loss Plot](FR4_antenna.png)
+  ![VSWR Plot](VSWR_1.png)
+  ![Gain Plot](P_1.png)
   
 
 ---
