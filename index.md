@@ -16,7 +16,6 @@
 * **Domain:** RF / Microwave Engineering & 5G Sub-6 GHz Communications
 * **Key Focus:** Active antenna design integrating negative differential resistance (NDR) for gain enhancement.
 * **Project Visuals:**
-  *(Upload your images to the repository and name them like `project1_1.png`, then uncomment below)*
   ![Schematic Layout](rtd_antenna.png)
   ![S-plot](rtd_ant_splot.png)
   ![Gain-plot](rtd_ant_gain.png)
