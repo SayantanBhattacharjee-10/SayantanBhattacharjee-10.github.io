@@ -75,6 +75,7 @@
   ![3D Radiation Pattern](band_ant.png)
   ![Return Loss Plot](band_plot_ant.png)
   ![VSWR Plot](band_vswr_plot.png)
+  ![Gain Plot](band_gain.png)
 
 ---
 
