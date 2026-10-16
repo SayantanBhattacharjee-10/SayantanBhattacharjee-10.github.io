@@ -32,7 +32,7 @@
 * **Project Visuals:**
   ![Quad-Band Schematic Layout](antenna_6g_su.png)
   ![Quad-Band S11 Response](quad_sp.png)
-  ![Quad-Band VSWR Response](quad_vswr)
+  ![Quad-Band S11 Response](quad_vswr.png)
 
 ---
 
